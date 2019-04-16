@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="prs" value="echo &quot;\n---------------------------\n&lt;pre&gt;\n&quot;;&#10;print_r($END$);&#10;echo &quot;\n&lt;/pre&gt;\n---------------------------\n&quot;;&#10;" description="print_r with line separation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
