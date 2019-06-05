@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="autoreload" type="PLAIN_TEXT" />
+      <mapping ext="fixed" type="PLAIN_TEXT" />
       <mapping ext="joblib" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
